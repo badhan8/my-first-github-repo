@@ -1,0 +1,18 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    color: tomato;
+    background-color: #edb2b2;
+    text-align: center;
+}
+div{
+    text-align: center;
+    background-color: #ca8a8a;
+    padding: 10px;
+}
+p{
+    background-color: #61bf84;
+    margin-top: 5px;
+}
